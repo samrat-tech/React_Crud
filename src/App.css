@@ -1,0 +1,32 @@
+.main #h2{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2rem;
+}
+
+
+
+img#table-img {
+    width: 2rem;
+    height: auto;
+    object-fit: cover;
+}
+
+#create-btn{
+    background-color: darkblue;
+    color: white;
+}
+#cancel-btn{
+    background-color: red;
+    color: white;
+}
+
+#create-btn:hover{
+    box-shadow: 0px 0px 1px 2px grey;
+}
+
+#cancel-btn:hover{
+    box-shadow: 0px 0px 1px 2px grey;
+}
+#home-btn{
+    margin-left: 45%;
+}
